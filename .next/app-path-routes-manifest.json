@@ -1,0 +1,9 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/delete-account/page": "/delete-account",
+  "/icon.png/route": "/icon.png",
+  "/page": "/",
+  "/privacy/page": "/privacy",
+  "/terms/page": "/terms"
+}
